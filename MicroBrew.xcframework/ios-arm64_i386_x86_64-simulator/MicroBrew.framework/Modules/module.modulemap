@@ -1,0 +1,6 @@
+framework module MicroBrew {
+  umbrella header "MicroBrew.h"
+
+  export *
+  module * { export * }
+}
